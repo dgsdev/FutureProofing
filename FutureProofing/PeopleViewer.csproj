@@ -6,4 +6,8 @@
     <RootNamespace>PeopleViewer</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\People.Library\People.Library.csproj" />
+  </ItemGroup>
+
 </Project>
